@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youtube-landingpage-using-react/static/css/main.943fa317.css",
+    "main.js": "/youtube-landingpage-using-react/static/js/main.42dae39a.js",
+    "index.html": "/youtube-landingpage-using-react/index.html",
+    "main.943fa317.css.map": "/youtube-landingpage-using-react/static/css/main.943fa317.css.map",
+    "main.42dae39a.js.map": "/youtube-landingpage-using-react/static/js/main.42dae39a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.943fa317.css",
+    "static/js/main.42dae39a.js"
+  ]
+}
